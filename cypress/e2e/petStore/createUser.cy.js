@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 import 'cypress-plugin-api';
 
 describe('Crear usuario', () => {

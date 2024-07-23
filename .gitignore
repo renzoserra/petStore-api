@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Cypress configuration and logs
+cypress/videos/
+cypress/screenshots/
+cypress/logs/
+
+# Cypress coverage
+coverage/
+
+# Cypress report files
+cypress/reports/
+
+# Cypress environment files
+cypress.env.json
+
+# IDE settings (Visual Studio Code, JetBrains IDEs)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# NPM package logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variable file
+.env
+
+# Log files
+logs/
+*.log
